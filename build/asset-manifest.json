@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51c5237f.css",
+    "main.js": "/static/js/main.602ded2f.js",
+    "static/media/rasim1.png": "/static/media/rasim1.2494e10cfb0ae8b3399f.png",
+    "static/media/rasim3.png": "/static/media/rasim3.8e968696c24cabe6f83e.png",
+    "static/media/image1.png": "/static/media/image1.55c8668d57ef13e5c856.png",
+    "static/media/rasim.png": "/static/media/rasim.406a28ae11c3ff2a74fe.png",
+    "index.html": "/index.html",
+    "main.51c5237f.css.map": "/static/css/main.51c5237f.css.map",
+    "main.602ded2f.js.map": "/static/js/main.602ded2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c5237f.css",
+    "static/js/main.602ded2f.js"
+  ]
+}
